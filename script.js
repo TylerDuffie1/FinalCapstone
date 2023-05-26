@@ -1,6 +1,6 @@
 // Initialize audio objects with audio file paths
 const audioHit = new Audio('../assets/15.mp3'); // Sound effect audio
-const song = new Audio('../assets/15.mp3'); // Background music audio
+const song = new Audio('https://github.com/gabrielsanchez/erddiagram/blob/main/molesong.mp3?raw=true'); // Background music audio
 
 /**
 
